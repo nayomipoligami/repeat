@@ -19,5 +19,26 @@ def pisagor():
 pisagor()
 
 for i in liste2:
-   print(i,end="\n")
+   print(i)
 print(len(liste2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
