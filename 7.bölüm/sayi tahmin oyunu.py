@@ -11,14 +11,13 @@ sayi tahmin etme oyununa hosgeldiniz....
 ********************************
 
 
-
 """)
 randomsayi=random.randint(1,40)
 tahmin=7
 while 1:
 
     bizimsayimiz=int(input("lutfen tahmininizi girin:"))
-    os.system("cls")
+
     if bizimsayimiz==randomsayi:
         print("Tahmininiz sorgulanıyor lutfen bekleyin....")
         time.sleep(2)
