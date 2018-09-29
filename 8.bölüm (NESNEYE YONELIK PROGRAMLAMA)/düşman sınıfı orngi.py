@@ -53,7 +53,7 @@ while i < 5:
 
 for düşman in düşmanlar:
     düşman.print()
-
+print("********************düşmanların ozellıklerı gosterildi**************************")
 i = 0
 while i < 3:
     saldırcak_düşman = random.randrange(0, 4)
